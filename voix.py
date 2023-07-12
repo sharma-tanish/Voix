@@ -220,6 +220,7 @@ while True:
         query = re.sub("search", "", query)
         voix.google_search(query)
 
-    elif re.search("search GPT",query):
+    elif re.search("search gpt",query):
+        response = response.relace("search gpt","")
         response = gpt3(query)
         print(response)
