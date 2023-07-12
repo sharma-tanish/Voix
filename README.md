@@ -4,4 +4,3 @@
 <p>takes voice input from user and sends it as prompt to ChatGPT using Speech To Text API and displays results in the console.</p>
 <p>Techonologies used - Python3 , ChatGPT API , WolframAlpha API , googlesearch module , wikipedia module , smtplib module , webbrowser module , pyttsx3 library , PyCharm IDE</p>
 
-[Voix Assistant PPT.pptx](https://github.com/abhirajbhattashali/Voix/files/12030591/Voix.Assistant.PPT.pptx)
